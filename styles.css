@@ -1,0 +1,48 @@
+nav  li  {
+    display: inline;
+
+}
+body {
+    background-color:lightblue;
+  }
+  p {
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+  }
+ h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: gray;
+    text-align: center;
+
+    
+  }
+  li {
+    display: block;
+    
+  }
+
+  section >p {
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: .5em;
+    text-align: center;
+    
+  }
+body > li {
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: .2em;
+    text-align: center;
+
+  }
+  h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: gray;
+    text-align: center;}
+    iframe {
+        align-items: center;
+
+    }
